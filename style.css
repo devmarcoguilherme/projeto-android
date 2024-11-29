@@ -119,10 +119,6 @@ p{
     font-family: var(--fonte-padrão);
 }
 
-picture{
-    margin-right: 10px;
-}
-
 main strong{
     color: var(--cor3);
     font-weight: strong;
